@@ -49,6 +49,7 @@ h1 {
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
+  padding: 20px 250px;
 }
 .body-header {
   text-align: center;
