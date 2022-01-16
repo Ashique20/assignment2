@@ -6,6 +6,9 @@
 
   margin-bottom: 7px;
 }
+h6 {
+  font-size: 1em;
+}
 .header-text {
   width: 50%;
 }
@@ -59,4 +62,47 @@ h1 {
   .header-text {
     width: 100%;
   }
+}
+.footer {
+  text-align: center;
+  background-color: rgb(0, 0, 46);
+  color: white;
+  padding: 30px 0;
+}
+.airpods {
+  padding: 10px;
+  margin-bottom: 100px;
+}
+.drone {
+  padding: 10px;
+}
+.lights {
+  padding: 10px;
+}
+.tripod {
+  padding: 10px;
+  margin-bottom: 100px;
+}
+.single-light {
+  padding: 10px;
+}
+mic {
+  padding: 10px;
+}
+.action {
+  padding: 10px;
+  margin-bottom: 100px;
+}
+.setup {
+  padding: 10px;
+}
+.camera {
+  padding: 10px;
+}
+
+h6 {
+  margin: 0;
+}
+.social-icon i {
+  padding: 11px;
 }
