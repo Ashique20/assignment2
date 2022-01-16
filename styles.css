@@ -13,7 +13,7 @@ h6 {
   width: 50%;
 }
 .body-section {
-  margin: 0 5%;
+  margin: 0 8%;
 }
 
 .arrow {
@@ -49,7 +49,7 @@ h1 {
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
-  padding: 20px 250px;
+  /* padding: 20px 250px; */
 }
 .body-header {
   text-align: center;
