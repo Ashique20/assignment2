@@ -15,8 +15,7 @@ h6 {
 .body-section {
   margin: 0 5%;
 }
-.header-image {
-}
+
 .arrow {
   text-decoration: none;
   background-image: linear-gradient(rgb(255, 0, 0), rgb(233, 91, 190));
@@ -86,7 +85,7 @@ h1 {
 .single-light {
   padding: 10px;
 }
-mic {
+.mic {
   padding: 10px;
 }
 .action {
@@ -105,4 +104,12 @@ h6 {
 }
 .social-icon i {
   padding: 11px;
+}
+p {
+  text-align: right;
+  color: rgb(209, 4, 72);
+  font-weight: bold;
+  font-size: normal;
+  padding: 1% 2.5%;
+  margin-bottom: 115px;
 }
