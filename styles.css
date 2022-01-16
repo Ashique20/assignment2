@@ -114,3 +114,11 @@ p {
   padding: 1% 2.5%;
   margin-bottom: 115px;
 }
+h4 {
+  margin-left: 60px;
+  font-size: 2em;
+}
+h1 {
+  font-size: 3em;
+  font-weight: bolder;
+}
